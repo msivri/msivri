@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**msivri/msivri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack developer of 14 years that specializes in Blockchain software development. 
 
-Here are some ideas to get you started:
+Blockchain will be the future. To quote Jack Dorsey, founder of Twitter:
+> "There is nothing else more important to work on." 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### What will blockchain do for the future? 
+It will create entirely new services. People will be able to get generic or custom contracts that facilitate agreements. These agreements will be anything between ownership of digital or physical goods, transferring ownership of digital or physical goods, transferring ownership of businesses, and more.
+
+### To learn more, check out:
+
+-  ✍️ [My Medium Blog](https://msivri.medium.com/)
+-  📄 [A modifiable auction contract](https://github.com/msivri/blockchain-clock-auction)
+
+### My recent posts
+- [Blockchain explained simply](https://msivri.medium.com/blockchain-explained-simply-f093ffbc7235)
+
+### Interested in blockchain?
+Feel free to send me an email or add me on linked in or twitter (@musivri).
+
+
