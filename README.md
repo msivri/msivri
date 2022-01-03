@@ -2,7 +2,7 @@
 
 I am a full-stack developer of 14 years that specializes in Blockchain software development. 
 
-Blockchain will be the future. To quote Jack Dorsey, founder of Twitter:
+Blockchain will be an important part the future. To quote Jack Dorsey, founder of Twitter:
 > "There is nothing else more important to work on." 
 
 Blockchain development is different than normal development and a lot more complicated. You need to be a creative problem-solver. You have to write optimized code and be constantly up-to-date with new patches and updates. Otherwise, very possible your code will cost millions of dollars in damage.
